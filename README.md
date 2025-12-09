@@ -7,6 +7,7 @@
 - [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Dashboard](#dashboard)
 - [Results & Findings](#results-&-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -23,6 +24,9 @@ This report analyzes revenue trends for a fictional retail organization across m
 ### Exploratory Data Analysis
 
 ### Data Analysis
+
+### Dashboard
+[Dashboard here](<iframe title="Revenue Performance Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWQ1ZTFhOWQtMGZiOC00YzgwLThiZmEtZmFlY2FkZDNmMjg5IiwidCI6IjJmMDFkOTZmLTgyYjMtNDY5My1hNTM3LTAwMTkxMGVkNmUyYSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 ### Results & Findings
 
